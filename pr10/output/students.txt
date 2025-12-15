@@ -1,10 +1,10 @@
-Студент: Ivanov, ID: 1001
-Студент: Petrov, ID: 1002
-Студент: Sidorov, ID: 1003
-Студент: Smirnov, ID: 1004
-Студент: Kuznetsov, ID: 1005
-Студент: Popov, ID: 1006
-Студент: Sokolov, ID: 1007
-Студент: Mikhailov, ID: 1008
-Студент: Novikov, ID: 1009
-Студент: Fedorov, ID: 1010
+Ivanov 1001
+Petrov 1002
+Sidorov 1003
+Smirnov 1004
+Kuznetsov 1005
+Popov 1006
+Sokolov 1007
+Mikhailov 1008
+Novikov 1009
+Fedorov 1010
